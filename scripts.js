@@ -1,6 +1,6 @@
 // https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
 
-// 8d543bc0c5964b377a72a905ea9486d5
+// 528f2bcd8370ccb86d86fac5d1422144
 
 const weatherApi = {
     key: "528f2bcd8370ccb86d86fac5d1422144",
